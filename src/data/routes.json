@@ -1,0 +1,74 @@
+[
+  {
+    "path": "/about-us",
+    "title": "About Us"
+  },
+  {
+    "path": "/articles",
+    "title": "Articles"
+  },
+  {
+    "path": "/brochures",
+    "title": "Plan Brochures"
+  },
+  {
+    "path": "/careers",
+    "title": "Careers"
+  },
+  {
+    "path": "/claims-form",
+    "title": "Claims"
+  },
+  {
+    "path": "/complaints",
+    "title": "Complaints"
+  },
+  {
+    "path": "/contact-info",
+    "title": "Contact Us"
+  },
+  {
+    "path": "/faqs",
+    "title": "FAQs"
+  },
+  {
+    "path": "/funeral-plans/group-societies",
+    "title": "Group Societies"
+  },
+  {
+    "path": "/funeral-plans/plan-a",
+    "title": "Plan A"
+  },
+  {
+    "path": "/funeral-plans/plan-a-plus",
+    "title": "Plan A+ Plus"
+  },
+  {
+    "path": "/funeral-plans/plan-b",
+    "title": "Plan B"
+  },
+  {
+    "path": "/gallery",
+    "title": "Gallery"
+  },
+  {
+    "path": "/",
+    "title": "Home"
+  },
+  {
+    "path": "/locate-your-branch",
+    "title": "Locate Your Branch"
+  },
+  {
+    "path": "/privacy-policy",
+    "title": "Website Privacy"
+  },
+  {
+    "path": "/services",
+    "title": "Services"
+  },
+  {
+    "path": "/terms-conditions",
+    "title": "Plan Information & Terms"
+  }
+]
