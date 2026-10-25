@@ -1,0 +1,21 @@
+BONTLE BA RONA — FULLY UPDATED REACT WEBSITE
+
+This is the latest React version with the original flyer logo, restrained brand colours,
+updated dropdown navigation, all 18 pages, monthly premiums and original brochures.
+
+FOR GITHUB
+Upload the files in this folder to the root of your repository, including src/, public/,
+package.json, package-lock.json and .github/. See README.md for GitHub Pages instructions.
+The dist/ folder is a built copy for hosting; the supplied .gitignore excludes it from Git.
+
+FOR A STATIC WEB HOST
+Upload the CONTENTS of dist/ to your hosting provider's website root.
+
+TO PREVIEW ON YOUR COMPUTER
+Install Node.js 22.12 or newer, open a terminal in this folder, and run:
+  npm ci
+  npm run dev
+Open the local address shown in the terminal. Double-clicking an HTML file does not run
+the React application correctly; it must be served through a local or hosted web server.
+
+The gallery is ready for your photographs, which have not yet been supplied.
